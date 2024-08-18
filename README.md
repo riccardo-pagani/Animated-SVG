@@ -1,5 +1,6 @@
 # Animated-SVG
 A collection of animated SVG files:
+(The CSS code is embedded into the SVG file)
 <table>
   <tr>
     <td><img src="./cuore.svg" width="250" height="250" /></td>
