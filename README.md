@@ -1,7 +1,5 @@
 # Animated-SVG
 A collection of animated SVG files:
-<img src="./branding.svg" width="250" height="250" />
-
 <table>
   <tr>
     <td><img src="./cuore.svg" width="250" height="250" /></td>
